@@ -37,13 +37,13 @@
 <a>
     <div align="center"  class="icons-social" style="margin-left: 10px;">
         <a style="margin-left: 10px;"  target="_blank" href="https://www.facebook.com/nnha.1099">
-			<img width="40px" height="40px" src="https://img.icons8.com/doodle/48/facebook-new.png"></a> 
-        <a style="margin-left: 10px;" target="_blank" href="https://mail.google.com/mail/u/0/#inbox?compose=CllgCKCHTlxptcqPFQRWPgSQsNcMPKNPZdPWfVBVvnCfphDXShVxwTSGkQwwfbrbzTSccvnCPlB">
-		    <img width="40px" height="40px" src="https://img.icons8.com/plasticine/100/gmail-new.png"></a> 
+		<img width="40px" height="40px" src="https://img.icons8.com/doodle/48/facebook-new.png"></a> 
+        <a style="margin-left: 10px;" target="_blank" href="mailto:nnha.1099@gmail.com">
+		<img width="40px" height="40px" src="https://img.icons8.com/plasticine/100/gmail-new.png"></a> 
         <a style="margin-left: 10px;" target="_blank" href="https://www.instagram.com/__nn.ha/">
-			<img width="40px" height="40px" src="https://img.icons8.com/pulsar-color/48/instagram-new.png" alt="instagram-new"/></a>
-		<a style="margin-left: 5px;" target="_blank" href="https://hanguyen1099.github.io/My-Porfolio/">
-			<img src="https://img.icons8.com/plasticine/40/000000/resume.png" >
+		<img width="40px" height="40px" src="https://img.icons8.com/pulsar-color/48/instagram-new.png" alt="instagram-new"/></a>
+	<a style="margin-left: 5px;" target="_blank" href="https://hanguyen1099.github.io/My-Porfolio/">
+		<img src="https://img.icons8.com/plasticine/40/000000/resume.png" >
         </a>
     </div>
 
