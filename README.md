@@ -5,38 +5,36 @@
     <p align="center"><a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Beginner+Developer...&hearts;++;An+engineering+student+at+PTIT;Love+to+learn+new+stuffs..<3"></a></p>
 </p>
 
+## <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px> <b> About me!</b>
 <br>
-    <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> <h2>About me</h2>
     <img align="right" src="https://media.giphy.com/media/QvpqTCiEcwtvx6wwJK/giphy.gif" width="270" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
-    <!-- <img align="right" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="200" height="200" frameBorder="0" class="giphy-embed" allowFullScreen></img></p> -->
-    <!-- <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" /> -->
-    <br>
-        - ❤️ Hi, I’m Nguyen Ha
-        - 💻 700+ Toeic
-        - 🧠 I’m interested in coding, travelling and sleeping
-        - 📖 I’m currently learning at Posts and Telecommunications Institute of Technology
-    <br>
+    <ul>
+        <li>❤️ Hi, I’m Nguyen Ha</li>
+	<li>💻 A passionate Self-taught developer</li>
+        <li>🌎 700+ Toeic</li>
+        <li>🧠 I’m interested in coding, travelling and sleeping</li>
+        <li>📖 I’m currently learning at Posts and Telecommunications Institute of Technology</li>
+	<li>🐣 Know more about me: <a href="https://my-porfolio-beta-five.vercel.app/">Porfolio</a></li>
+    </ul>
 <br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
-<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><h2> Languages and Tools:</h2>
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25" > <b> Languages and Tools:</b>
 <br>
-
-<p align="left">
-    <code><img height="25" src="https://user-images.githubusercontent.com/59575502/127426751-01af6b81-3523-47d2-95b8-6166f9c3c3aa.png" ></code>
-    <code><img height="25"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" ></code>
-    <code><img height="25"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" ></code>
-    <code><img height="25"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" ></code>
-    <code><img height="25"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" ></code>
-    <code><img height="25"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" ></code>
-    <code><img height="25"  src="https://user-images.githubusercontent.com/59575502/127427980-4b5ba4cf-daee-474f-a500-872181ccc470.png" ></code>
-<br>
+<p align="center">
+    <code><img height="30" src="https://user-images.githubusercontent.com/59575502/127426751-01af6b81-3523-47d2-95b8-6166f9c3c3aa.png" ></code>
+    <code><img height="30"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" ></code>
+    <code><img height="30"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" ></code>
+    <code><img height="30"  src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/48px-CSS3_logo.svg.png" ></code>
+    <code><img height="30"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" ></code>
+    <code><img height="30"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" ></code>
+    <code><img height="30"  src="https://user-images.githubusercontent.com/59575502/127427980-4b5ba4cf-daee-474f-a500-872181ccc470.png" ></code>
+<br><br>
 
 -----
-<p>
-</br>
-    <br> ## <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80"> <h2>Connect with me!</h2><br>
+## <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80"> <b> Connect with me!</b>
+<a>
     <div align="center"  class="icons-social" style="margin-left: 10px;">
         <a style="margin-left: 10px;"  target="_blank" href="https://www.facebook.com/nnha.1099">
 			<img width="40px" height="40px" src="https://img.icons8.com/doodle/48/facebook-new.png"></a> 
@@ -48,11 +46,10 @@
 			<img src="https://img.icons8.com/plasticine/40/000000/resume.png" >
         </a>
     </div>
-</br>
 
 <div align='center'>
 
-<b>السَّلاَمُ عَلَيْكُمْ وَرَحْمَةُ اللهِ وَبَرَكَاتُهُ...✨</b>
+<b>✨ Ask me anything you want, If I am there I will answer within seconds.</b>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
