@@ -1,11 +1,11 @@
 
-<p align="center"> 
-    <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" width="150"/>
-    <h1 align="center"><b>Hi,  I'm Nguyen Ngoc Ha </b><img src="https://i.pinimg.com/originals/00/4b/17/004b173f6e3d6843df10114e087f30a8.gif" width="50" height="50"></h1>
+<p align="center"> 	
+    <img src="https://media.giphy.com/media/5ALW1Wkxuou7T2ooyV/giphy.gif" width="250"/>
+    <h1 align="center"><b>Hi,  I'm Nguyen Ngoc Ha </b><img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="40px">&nbsp</h1>
     <p align="center"><a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Beginner+Developer...&hearts;++;An+engineering+student+at+PTIT;Love+to+learn+new+stuffs..<3"></a></p>
 </p>
 
-## <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px> <b> About me!</b>
+## <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 70px> <b> About me</b>
 <br>
     <img align="right" src="https://media.giphy.com/media/QvpqTCiEcwtvx6wwJK/giphy.gif" width="270" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
     <ul>
@@ -32,8 +32,22 @@
     <code><img height="30"  src="https://user-images.githubusercontent.com/59575502/127427980-4b5ba4cf-daee-474f-a500-872181ccc470.png" ></code>
 <br><br>
 
+<!-- ---
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Status </b>
+
+
+<div align="center">
+
+<a href="https://github.com/0xabdulkhalid/">
+  <img src="https://github-readme-stats.vercel.app/api?username=HaNguyen1099&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="462"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=HaNguyen1099&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="350"/>
+
+</a>
+</div> -->
+
 -----
-## <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80"> <b> Connect with me!</b>
+## <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80"> <b> Connect with me</b>
 <a>
     <div align="center"  class="icons-social" style="margin-left: 10px;">
         <a style="margin-left: 10px;"  target="_blank" href="https://www.facebook.com/nnha.1099">
@@ -46,10 +60,10 @@
 		<img src="https://img.icons8.com/plasticine/40/000000/resume.png" >
         </a>
     </div>
-
+ 
 <div align='center'>
 
-<b>✨ Ask me anything you want, If I am there I will answer within seconds.</b>
+<p>✨ Ask me anything you want, If I am there I will answer within seconds.</p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
