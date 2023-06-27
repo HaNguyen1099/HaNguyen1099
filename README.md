@@ -53,8 +53,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
-<h3 align='center'>Support me by starring ⭐ some of my repositories</h3>
 <p align='center'>
 <img src="https://media.giphy.com/media/O51MQ3DduOcGW6ofR3/giphy.gif" width="100" height="100" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
-<h3 align='center'>Thank You ❤️!</h3>
+<h3 align='center'>From HaNguyen ❤️!</h3>
 <br>
