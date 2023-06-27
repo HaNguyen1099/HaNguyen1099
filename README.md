@@ -53,7 +53,9 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
-<p align='center'>
-<img src="https://media.giphy.com/media/O51MQ3DduOcGW6ofR3/giphy.gif" width="100" height="100" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
-<h3 align='center'>From HaNguyen ❤️!</h3>
-<br>
+<div align="left">
+	
+[![](https://visitcount.itsvg.in/api?id=HaNguyen1099&label=Profile%20Views&color=1&icon=2&pretty=true)](https://visitcount.itsvg.in)
+</div>
+<p align="left">❤️ From HaNguyen!</p>
+
