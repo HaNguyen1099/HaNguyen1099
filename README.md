@@ -57,5 +57,5 @@
 	
 [![](https://visitcount.itsvg.in/api?id=HaNguyen1099&label=Profile%20Views&color=1&icon=2&pretty=true)](https://visitcount.itsvg.in)
 </div>
-<p align="left">❤️ From HaNguyen!</p>
+<p align="left">❤️ From HaNguyen.</p>
 
