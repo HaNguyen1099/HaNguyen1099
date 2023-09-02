@@ -25,13 +25,15 @@
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25" > <b> Languages and Tools:</b>
 <br>
 <p align="center">
+    <code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" ></code>
+    <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" ></code>
     <code><img height="30" src="https://user-images.githubusercontent.com/59575502/127426751-01af6b81-3523-47d2-95b8-6166f9c3c3aa.png" ></code>
-    <code><img height="30"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" ></code>
+    <code><img height="30"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" ></code>
     <code><img height="30"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" ></code>
     <code><img height="30"  src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/48px-CSS3_logo.svg.png" ></code>
     <code><img height="30"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" ></code>
+    <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" ></code>
     <code><img height="30"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" ></code>
-    <code><img height="30"  src="https://user-images.githubusercontent.com/59575502/127427980-4b5ba4cf-daee-474f-a500-872181ccc470.png" ></code>
 <br><br>
 
 <!-- ---
