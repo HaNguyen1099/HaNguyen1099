@@ -11,10 +11,10 @@
 <br>
     <img align="right" src="https://media.giphy.com/media/QvpqTCiEcwtvx6wwJK/giphy.gif" width="270" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
     <ul>
-        <li>❤️ Hi, I’m Ha Nguyen </li>
+        <li>🐉 Hi, I’m Ha Nguyen </li>
 	<li>💻 A passionate Self-taught developer</li>
         <li>🌎 700+ Toeic</li>
-        <li>🧠 I’m interested in coding, travelling and sleeping</li>
+        <li>🧳 I’m interested in coding, travelling and sleeping</li>
         <li>📖 I’m currently learning at Posts and Telecommunications Institute of Technology</li>
 	<li>🐣 Know more about me: <a href="https://my-porfolio-beta-five.vercel.app/">Porfolio</a></li>
     </ul>
