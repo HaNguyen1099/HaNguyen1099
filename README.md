@@ -11,10 +11,10 @@
 <br>
     <img align="right" src="https://media.giphy.com/media/QvpqTCiEcwtvx6wwJK/giphy.gif" width="270" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
     <ul>
-        <li>🐉 Hi, I’m Ha Nguyen </li>
+        <li>🐍 Hi, I’m Ha Nguyen </li>
 	<li>💻 A passionate Self-taught developer</li>
         <li>🌎 700+ Toeic</li>
-        <li>🍂 I’m interested in coding, travelling and sleeping</li>
+        <li>🌱 I’m interested in coding, travelling and sleeping</li>
         <li>📖 I’m currently learning at Posts and Telecommunications Institute of Technology</li>
 	<li>🐣 Know more about me: <a href="https://my-porfolio-beta-five.vercel.app/">Porfolio</a></li>
     </ul>
@@ -25,15 +25,19 @@
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25" > <b> Languages and Tools:</b>
 <br>
 <p align="center">
-    <code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" ></code>
-    <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" ></code>
     <code><img height="30" src="https://user-images.githubusercontent.com/59575502/127426751-01af6b81-3523-47d2-95b8-6166f9c3c3aa.png" ></code>
     <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" ></code>
+    <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" ></code>
     <code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" ></code>
     <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/48px-CSS3_logo.svg.png" ></code>
     <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" ></code>
-    <code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" ></code>
-    <code><img height="30" src="https://user-images.githubusercontent.com/64439609/212556685-de9a7c04-31b0-43b6-af39-7c82ac13b321.png" ></code>
+    <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" ></code>
+    <code><img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" ></code>
+    <code><img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" ></code>
+    <code><img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" ></code>
+    <code><img height="35" src="https://img.icons8.com/color/48/000000/mongodb.png" ></code>
+    <code><img height="35" src="https://user-images.githubusercontent.com/64439609/212556685-de9a7c04-31b0-43b6-af39-7c82ac13b321.png" ></code>
+    <code><img height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" ></code>
 <br><br>
 
 <!-- ---
