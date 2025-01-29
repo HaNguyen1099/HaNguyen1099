@@ -4,7 +4,7 @@
 <!--     <img src="https://media.giphy.com/media/kSxi9DiWH4Q8q1Kbql/giphy.gif" width="300"/> -->
 <!--     <img src="https://media.giphy.com/media/5ALW1Wkxuou7T2ooyV/giphy.gif" width="250"/> -->
     <h1 align="center"><b>Hi,  I'm Ha Nguyen Ngoc </b><img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="40px">&nbsp</h1>
-    <p align="center"><a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Beginner+Developer...&hearts;++;An+engineering+student+at+PTIT;Love+to+learn+new+stuffs..<3"></a></p>
+    <p align="center"><a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Backend+Developer...&hearts;++;An+engineering+student+at+PTIT;Love+to+learn+new+stuffs..<3"></a></p>
 </p>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25" > <b> About me</b>
