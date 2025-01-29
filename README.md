@@ -75,9 +75,10 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
+<!-- ---
 <div align="left">
 	
 [![](https://visitcount.itsvg.in/api?id=HaNguyen1099&label=Profile%20Views&color=1&icon=2&pretty=true)](https://visitcount.itsvg.in)
-</div>
+</div> -->
 <p align="left">❤️ From HaNguyen.</p>
 
